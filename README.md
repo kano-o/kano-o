@@ -1,5 +1,10 @@
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/368879df-dc38-4b1a-86c4-8a2054a0e074.svg?style=flat)](https://wakatime.com/@368879df-dc38-4b1a-86c4-8a2054a0e074)
-<br><br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?label=kano%230042&style=flat&logo=discord&logoColor=white">
+<br>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kano-o&count_private=true&title_color=77bdfb&icon_color=77bdfb&text_color=77bdfb&bg_color=0d1117&langs_count=6&layout=compact&hide_border=true)
+<br>
