@@ -14,6 +14,7 @@ jobs:
             - uses: kano-o/waka-readme@master
             with:
                 WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                GH_TOKEN: ${{ secrets.TOKEN_GITHUB }}
                 SHOW_TITLE: true
                 BLOCKS: ->
                 TIME_RANGE: all_time
