@@ -10,4 +10,14 @@
 <br>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 14 October 2022 - To: 15 October 2022
+
+Total Time: 4 mins
+
+JavaScript       4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.94 %
+GitIgnore file   0 secs          -------------------------   00.06 %
+```
+
 <!--END_SECTION:waka-->
