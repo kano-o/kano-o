@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?label=kano%233578&style=flat&logo=discord&logoColor=white">
 <br>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kano-o&count_private=true&title_color=77bdfb&icon_color=77bdfb&text_color=77bdfb&bg_color=0d1117&langs_count=6&layout=compact&hide_border=true)
-<br>
+
 
 <!--START_SECTION:waka-->
 
