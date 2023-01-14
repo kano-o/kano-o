@@ -11,15 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 13 January 2023
+From: 14 October 2022 - To: 14 January 2023
 
-Total Time: 1 hr 58 mins
+Total Time: 5 hrs 25 mins
 
-JavaScript       1 hr 40 mins    >>>>>>>>>>>>>>>>>>>>>----   85.19 %
-C                11 mins         >>-----------------------   09.41 %
-ObjectiveC       5 mins          >------------------------   04.79 %
-GitIgnore file   0 secs          -------------------------   00.51 %
-CMake            0 secs          -------------------------   00.09 %
+Python           3 hrs 27 mins   >>>>>>>>>>>>>>>>---------   63.69 %
+JavaScript       1 hr 40 mins    >>>>>>>>-----------------   30.92 %
+C                11 mins         >------------------------   03.41 %
+ObjectiveC       5 mins          -------------------------   01.74 %
+GitIgnore file   0 secs          -------------------------   00.19 %
+CMake            0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
