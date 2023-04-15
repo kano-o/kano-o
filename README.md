@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 12 April 2023
+From: 14 October 2022 - To: 13 April 2023
 
-Total Time: 18 hrs 31 mins
+Total Time: 18 hrs 32 mins
 
-Python           15 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>----   82.41 %
+Python           15 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>----   82.40 %
 JavaScript       1 hr 40 mins    >>-----------------------   09.04 %
 Java             1 hr 10 mins    >>-----------------------   06.32 %
 C                11 mins         -------------------------   01.00 %
