@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 30 April 2023
+From: 14 October 2022 - To: 01 May 2023
 
-Total Time: 19 hrs 51 mins
+Total Time: 20 hrs
 
-Python           15 hrs 16 mins  >>>>>>>>>>>>>>>>>>>------   76.90 %
-JavaScript       1 hr 40 mins    >>-----------------------   08.44 %
-Java             1 hr 10 mins    >------------------------   05.90 %
-C++              46 mins         >------------------------   03.93 %
-Markdown         16 mins         -------------------------   01.35 %
-CMake            13 mins         -------------------------   01.13 %
+Python           15 hrs 16 mins  >>>>>>>>>>>>>>>>>>>------   76.31 %
+JavaScript       1 hr 40 mins    >>-----------------------   08.37 %
+Java             1 hr 10 mins    >------------------------   05.85 %
+C++              48 mins         >------------------------   04.06 %
+Markdown         17 mins         -------------------------   01.47 %
+CMake            14 mins         -------------------------   01.23 %
 ```
 
 <!--END_SECTION:waka-->
