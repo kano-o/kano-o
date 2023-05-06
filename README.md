@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 03 May 2023
+From: 14 October 2022 - To: 04 May 2023
 
 Total Time: 21 hrs 14 mins
 
@@ -19,7 +19,6 @@ JavaScript       1 hr 40 mins    >>-----------------------   07.89 %
 C++              1 hr 15 mins    >------------------------   05.95 %
 Java             1 hr 10 mins    >------------------------   05.51 %
 CMake            36 mins         >------------------------   02.88 %
-Text             31 mins         >------------------------   02.49 %
 ```
 
 <!--END_SECTION:waka-->
