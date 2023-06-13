@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2022 - To: 10 June 2023
+From: 14 October 2022 - To: 11 June 2023
 
-Total Time: 41 hrs 22 mins
+Total Time: 43 hrs 9 mins
 
-C++              17 hrs          >>>>>>>>>>---------------   41.14 %
-Python           15 hrs 16 mins  >>>>>>>>>----------------   36.92 %
-ObjectiveC       2 hrs 42 mins   >>-----------------------   06.53 %
-CMake            1 hr 52 mins    >------------------------   04.53 %
-JavaScript       1 hr 40 mins    >------------------------   04.05 %
+C++              17 hrs 40 mins  >>>>>>>>>>---------------   40.94 %
+Python           15 hrs 16 mins  >>>>>>>>>----------------   35.39 %
+ObjectiveC       3 hrs 50 mins   >>-----------------------   08.89 %
+CMake            1 hr 52 mins    >------------------------   04.34 %
+JavaScript       1 hr 40 mins    >------------------------   03.88 %
 ```
 
 <!--END_SECTION:waka-->
