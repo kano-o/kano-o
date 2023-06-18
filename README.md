@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2022 - To: 15 June 2023
+From: 14 October 2022 - To: 16 June 2023
 
-Total Time: 48 hrs 5 mins
+Total Time: 48 hrs 31 mins
 
-C++              19 hrs 21 mins  >>>>>>>>>>---------------   40.25 %
-Python           15 hrs 16 mins  >>>>>>>>-----------------   31.75 %
-ObjectiveC       4 hrs 36 mins   >>-----------------------   09.57 %
-Svelte           2 hrs 9 mins    >------------------------   04.49 %
-CMake            1 hr 53 mins    >------------------------   03.93 %
+C++              19 hrs 21 mins  >>>>>>>>>>---------------   39.90 %
+Python           15 hrs 16 mins  >>>>>>>>-----------------   31.47 %
+ObjectiveC       4 hrs 38 mins   >>-----------------------   09.55 %
+Svelte           2 hrs 20 mins   >------------------------   04.83 %
+CMake            1 hr 53 mins    >------------------------   03.90 %
 ```
 
 <!--END_SECTION:waka-->
