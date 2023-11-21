@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=IntelliJ-IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/CLion-000000.svg?style=flat&logo=CLion&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?label=kano%233578&style=flat&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?label=kano42&style=flat&logo=discord&logoColor=white">
 <br>
 
 
