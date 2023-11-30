@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2022 - To: 27 November 2023
+From: 14 October 2022 - To: 28 November 2023
 
-Total Time: 100 hrs 50 mins
+Total Time: 100 hrs 54 mins
 
-C++              29 hrs 28 mins  >>>>>>>------------------   29.22 %
-Python           15 hrs 16 mins  >>>>---------------------   15.14 %
-Svelte           12 hrs 6 mins   >>>----------------------   12.01 %
-Rust             9 hrs 47 mins   >>-----------------------   09.72 %
-Vue.js           7 hrs 9 mins    >>-----------------------   07.10 %
+C++              29 hrs 28 mins  >>>>>>>------------------   29.20 %
+Python           15 hrs 16 mins  >>>>---------------------   15.13 %
+Svelte           12 hrs 6 mins   >>>----------------------   12.00 %
+Rust             9 hrs 47 mins   >>-----------------------   09.71 %
+Vue.js           7 hrs 9 mins    >>-----------------------   07.09 %
 ```
 
 <!--END_SECTION:waka-->
