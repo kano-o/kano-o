@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2022 - To: 04 May 2024
+From: 14 October 2022 - To: 05 May 2024
 
-Total Time: 127 hrs 3 mins
+Total Time: 127 hrs 8 mins
 
-C++              30 hrs 8 mins   >>>>>>-------------------   23.73 %
-Rust             17 hrs 31 mins  >>>----------------------   13.80 %
-Python           15 hrs 16 mins  >>>----------------------   12.02 %
-C                14 hrs 8 mins   >>>----------------------   11.13 %
+C++              30 hrs 10 mins  >>>>>>-------------------   23.74 %
+Rust             17 hrs 31 mins  >>>----------------------   13.79 %
+Python           15 hrs 16 mins  >>>----------------------   12.01 %
+C                14 hrs 10 mins  >>>----------------------   11.14 %
 Svelte           12 hrs 6 mins   >>-----------------------   09.53 %
 ```
 
