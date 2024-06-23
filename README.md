@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2022 - To: 20 June 2024
+From: 14 October 2022 - To: 22 June 2024
 
-Total Time: 141 hrs 42 mins
+Total Time: 145 hrs 7 mins
 
-C++              30 hrs 12 mins  >>>>>--------------------   21.32 %
-Rust             21 hrs 18 mins  >>>>---------------------   15.03 %
-C                20 hrs 5 mins   >>>>---------------------   14.18 %
-Python           18 hrs 9 mins   >>>----------------------   12.81 %
-Svelte           12 hrs 6 mins   >>-----------------------   08.55 %
+C++              30 hrs 12 mins  >>>>>--------------------   20.81 %
+C                21 hrs 57 mins  >>>>---------------------   15.13 %
+Rust             21 hrs 18 mins  >>>>---------------------   14.68 %
+Python           18 hrs 9 mins   >>>----------------------   12.51 %
+Svelte           12 hrs 6 mins   >>-----------------------   08.35 %
 ```
 
 <!--END_SECTION:waka-->
