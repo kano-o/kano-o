@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2022 - To: 12 May 2025
+From: 14 October 2022 - To: 14 May 2025
 
-Total Time: 217 hrs 50 mins
+Total Time: 219 hrs 10 mins
 
-C++              49 hrs 13 mins  >>>>>>-------------------   22.60 %
-Python           29 hrs 8 mins   >>>----------------------   13.38 %
-Rust             27 hrs 12 mins  >>>----------------------   12.49 %
-C                24 hrs 34 mins  >>>----------------------   11.28 %
-ObjectiveC       15 hrs 42 mins  >>-----------------------   07.21 %
+C++              50 hrs 18 mins  >>>>>>-------------------   22.95 %
+Python           29 hrs 8 mins   >>>----------------------   13.30 %
+Rust             27 hrs 12 mins  >>>----------------------   12.41 %
+C                24 hrs 34 mins  >>>----------------------   11.21 %
+ObjectiveC       15 hrs 43 mins  >>-----------------------   07.18 %
 ```
 
 <!--END_SECTION:waka-->
